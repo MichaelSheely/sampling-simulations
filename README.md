@@ -23,7 +23,7 @@ across gBikes and that each time we use a bike, we select it at random from
 the set of gBikes.
 
 We may note that this question is isomorphic to asking the following question:
-  - If uniformly sampling $n$ objects with replacement, what is the expected value of the number of trials before all $n$ objects will be sampled?
+  - If uniformly sampling `n` objects with replacement, what is the expected value of the number of trials before all `n` objects will be sampled?
 
 We may approach this question from both an analytic and computational approach.
 
